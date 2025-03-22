@@ -1,4 +1,4 @@
-package edu.introducao;
+package edu.introducao.anatomiaclasses;
 
 public class Metodos {
 
