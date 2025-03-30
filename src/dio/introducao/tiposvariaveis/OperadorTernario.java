@@ -1,4 +1,4 @@
-package edu.introducao.tiposvariaveis;
+package dio.introducao.tiposvariaveis;
 
 public class OperadorTernario {
     public static void main(String[] args) {

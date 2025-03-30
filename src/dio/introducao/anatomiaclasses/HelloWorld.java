@@ -1,4 +1,4 @@
-package edu.introducao.anatomiaclasses;
+package dio.introducao.anatomiaclasses;
 
 public class HelloWorld {
     public static void main(String[] args) {
